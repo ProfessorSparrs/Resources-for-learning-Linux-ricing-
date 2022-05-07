@@ -1,0 +1,26 @@
+Good software for riced-out desktops
+
+Panels and status-bars -polybar, vad nu det är. Xmobar
+
+Alacritty terminal Zsh-shell, verkar vara avancerat shell med massor av customization Kitty-terminal.
+
+Powerline? Powerlevel10k? Neofetch Compositors; Picom?
+
+Sys-resource monitorapps; Htop, btop, bpytop, glances, gotop, bashto Nvtop(Nvidia GPU-resource monitor Sampler(resource monitor with yaml-config)
+
+Terminal text-editors; Nano, Vim, Emacs
+
+Terminal-downloaders; Wget, git, aria2
+
+GUI-text editors;
+
+leafpad, mousepad, gedit(gnome)
+App-launchers;
+
+rofi, jgmenu, dmenu
+Diverse appar jag behöver oavsett DE;
+
+chromium, lightdm, btrfs-autosnapshot, timeshift, grub, grub-customizer, grub-snapshot
+Tree - cli-app för att visa trädstruktur över var jag är i systemets filer.
+
+Fonts; Terminus Nerdfonts
