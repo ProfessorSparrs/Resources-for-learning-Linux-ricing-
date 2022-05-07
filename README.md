@@ -15,3 +15,5 @@ DAMN YOU r/unixporn! 😂
 
 
 https://www.geeksforgeeks.org/how-to-customize-bash-colors-and-content-in-linux-terminal-prompt/
+
+https://jie-fang.github.io/blog/basics-of-ricing
